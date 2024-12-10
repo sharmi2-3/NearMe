@@ -94,7 +94,7 @@ back to the 9th century under the cholas,but it gained prominence during the vij
 </body>
 </html>
 
-vasantha bhavan,html
+vasantha bhavan.html
 <html>
 <head>
 <title>My Town</title>
@@ -169,9 +169,6 @@ gandhi bazaar ,is bustling with shops,eateries and essential services, makingmit
 ![alt text](4.png)
 ![alt text](5.png)
 ![alt text](6.png)
-
-
-
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
