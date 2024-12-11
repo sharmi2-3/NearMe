@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 30.11.2024
+## Date: 11.12.2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -38,19 +38,21 @@ map.html
 <h2 align="centre">
 <font color="blue"><b>Sharmila P (24900072)</b></font>
 </h2>
-<img src="map.png.png" usemap="#image-map">
+<centre>
+<img src="map.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="temple" title="temple" href="ekambaraswar.html" coords="354,390,554,476" shape="rect">
-    <area target="" alt="fort" title="fort" href="raja fort.html" coords="114,577,295,521" shape="rect">
-    <area target="" alt="hotel" title="hotel" href="vasantha bhavan.html" coords="1099,339,1297,386" shape="rect">
-    <area target="" alt="bazaar" title="bazaar" href="gandhi bazaar.html" coords="969,636,1095,569" shape="rect">
-    <area target="" alt="bus stand" title="bus stand" href="bus stand.html" coords="" shape="rect">
+    <area target="" alt="fort" title="fort" href="raja fort.html" coords="41,511,240,402" shape="rect">
+    <area target="" alt="temple" title="temple" href="arunachaleswar.html" coords="842,337,1133,430" shape="rect">
+    <area target="" alt="bus stand" title="bus stand" href="gingee bus stand.html" coords="988,219,1168,168" shape="rect">
+    <area target="" alt="theatre" title="theatre" href="saravana cime plex.html" coords="1067,87,1259,130" shape="rect">
+    <area target="" alt="hotel" title="hotel" href="vasantha bhavan.html" coords="1180,172,1372,228" shape="rect">
 </map>
+</centre>
 </body>
 </html>
 
-ekambaraswar.html
+temple.html
 <html>
 <head>
 <title>my Town</title>
@@ -60,19 +62,22 @@ ekambaraswar.html
 <font color="black"><b>gingee</b></font>    
 </h1>
 <h3 align="center">
-<font color="blue"><b>shri ekambareswar temple</b></font>    
+<font color="blue"><b>shri Arunachaleswarar temple</b></font>    
 </h3>
 <hr size="3" color="black">
 <p align="justify">
 <front face="Georgia" size="S">
-Shri ekambareswar temple in gingee,Tamilnadu is a historic hindu temple dedicated to LORD SHIVA. it is a prominent spiritual 
-center in the region and holds architectural and religious significance.it showcases traditional dravidian temple architecture 
-characterized by intricate cravings,tall gopurams and a serene ambiance.
+The Shri Arunachaleswarar Temple in Gingee is a lesser-known but spiritually significant temple dedicated to Lord Shiva.
+It is located in the Gingee region of Tamil Nadu, a place steeped in history and culture.he temple's name, Arunachaleswarar,
+connects it to Lord Shiva as the embodiment of fire and light, much like the more famous Arunachaleswarar Temple in Tiruvannamalai.If
+ this temple  holds special meaning to you, it might be due to its tranquil setting or personal memories tied to your visits there.
+
 <p>
 </body>
 </html>
 
-raja fort.html
+
+fort.html
 <html>
 <head>
 <title>My Town</title>
@@ -94,7 +99,7 @@ back to the 9th century under the cholas,but it gained prominence during the vij
 </body>
 </html>
 
-vasantha bhavan.html
+hotel.html
 <html>
 <head>
 <title>My Town</title>
@@ -116,7 +121,7 @@ non-vegetarian option along with a selection of dessert,attentive staff,and maki
 </body>
 </html>
 
-gandhi bazaar.html
+theatre.html
 <html>
 <head>
 <title>My Town</title>
@@ -126,15 +131,14 @@ gandhi bazaar.html
 <font color="black"><b>gingee</b></font>    
 </h1>
 <h3 align="center">
-<font color="blue"><b>gandhi bazaar </b></font>    
+<font color="blue"><b>saravana cine plex </b></font>    
 </h3>
 <hr size="3" color="black">
 <p align="justify">
 <front face="Georgia" size="S">
-Gandhi bazaar in gingee is a bustling commericial area known for its local shops.eateriesand vibrant market atmosphere.it servers as a hub 
-for daily shopping needs and features a variety of business,including restaurants like vasantha bhavan,pharmaciesn and traditional shops 
-selling goods and groceries.its location near the bus stand make it a convenient spot for traveler and locals alike,offering both modern and
-traditional shopping experiences.
+Saravana Theatre in Gingee is a well-known local cinema hall, serving as a popular entertainment hub for the residents of the town and nearby areas. 
+It provides a space for people to enjoy the latest Tamil, regional, and occasionally other language films. Like many small-town theaters,
+it holds a special place in the hearts of locals, often being associated with fond memories of movie outings with family and friends.
 <p>
 </body>
 </html>
@@ -163,14 +167,13 @@ gandhi bazaar ,is bustling with shops,eateries and essential services, makingmit
 ```
 
 ## OUTPUT
+
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
-![alt text](5.png) 
+![alt text](5.png)
 ![alt text](6.png)
-
-
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
